@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+=======
+hello world !!!
+ 
+ welcome to demo3
+
+>>>>>>> 9b0c652 (adding content in demo3)
